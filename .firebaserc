@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "fitmantra-735c8",
+    "old": "fitmantra-735c8",
+    "new": "fitmantradb"
+  },
+  "targets": {},
+  "etags": {}
+}
